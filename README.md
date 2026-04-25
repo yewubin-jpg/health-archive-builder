@@ -1,7 +1,15 @@
 # Health Archive Builder · 个人健康百科构建师
 
+[![GitHub Stars](https://img.shields.io/github/stars/yewubin-jpg/health-archive-builder?style=social)](https://github.com/yewubin-jpg/health-archive-builder/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yewubin-jpg/health-archive-builder?style=social)](https://github.com/yewubin-jpg/health-archive-builder/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Made by Ye Wubin](https://img.shields.io/badge/Made%20by-叶武滨%20%7C%20易效能创始人-brightgreen)](https://www.yixiaoneng.com)
+
 > 由**易效能创始人 叶武滨**设计的个人健康档案 AI 教练。
 > 通过对方口述病史 + 上传体检报告，AI 自动生成一份结构化、循证、可追踪的《个人健康百科全书》，并附带定制版"全天高能量节律方案"。
+
+> ⭐ **如果这个项目帮到了你，请点一下右上角的 Star，让更多朋友看到。**
+> 🔁 **欢迎 Fork、转发到朋友圈、推荐给关心健康的家人。健康是 1，其他都是 0。**
 
 ---
 
